@@ -1,3 +1,7 @@
+React Shopping Cart Tutorial | Context API with useReducer Hook in React JS
+
+link: 'https://www.youtube.com/watch?v=HptuMAUaNGk&t=299s'
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
